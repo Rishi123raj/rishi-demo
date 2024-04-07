@@ -1,5 +1,5 @@
 # rishi-demo
 this is my first git project
 <br>
-author-rishi raj
+author-rishi raj(nit delhi)
 
